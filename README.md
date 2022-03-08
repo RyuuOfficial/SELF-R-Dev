@@ -43,7 +43,7 @@
 > git clone https://github.com/RyuuOfficial/R-Dev-Team
 > cd R-Dev-Team
 > npm i
-> node run.js
+> npm start
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
 > cp -r xdev-self-main $HOME
