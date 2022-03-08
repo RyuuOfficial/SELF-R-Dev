@@ -9,13 +9,13 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/xdevteam404"><img title="Author" src="https://img.shields.io/badge/Author-xdev team-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/RyuuOfficial"><img title="Author" src="https://img.shields.io/badge/Author-R Dev Team-red.svg?style=for-the-badge&logo=github" /></a>
    
 <a href="https://heroku.com/deploy?template=https://github.com/hardiantojek93/xdev-self/"><img title="Deploy" src="https://www.herokucdn.com/deploy/button.svg" /></a>
 
   <h4 align="center">
-<a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=X - Dev Team&description=Free Whatsapp Bot Script For You Made By Team X - Dev.Please Use But Never Delete Creator's Name🤗&image=https://telegra.ph/file/9e010189999b35c11d55b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=xdevteam404&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
-  <a href="https://wa.me/62895619083555">SC FREE API KOK GAN >//< </a>
+<a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=R - Dev Team&description=Free Whatsapp Bot Script For You Made By Team R - Dev. Please Use But Never Delete Creator's Name🤗&image=https://telegra.ph/file/9e010189999b35c11d55b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=RyuuOfficial By R Dev Team&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+  <a href="https://wa.me/6282316153393">SC FREE API KOK GAN >//< </a>
 </h4>
 </p>
 
@@ -28,7 +28,7 @@
 > Tinggal Scan (tidak recomended) usahakan session udah terpasang manual
 > Dah Itu Aja klo masih kurang coli dlu
 ```
-• [`By Arsky x Hardianto`](https://github.com/xdevteam404/xdev-self)
+• [`By RyuuOfficial`](https://github.com/RyuuOfficial/xdev-self)
 
 
 # TERMUX
@@ -40,26 +40,26 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/xdevteam404/xdev-self
-> cd xdev-self
+> git clone https://github.com/RyuuOfficial/R-Dev-Team
+> cd R-Dev-Team
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
 > cp -r xdev-self-main $HOME
-> cd xdev-self-main
+> cd R-Dev-Team
 > npm i
-> node run.js
+> npm start
 ```
 
 # Baca Nih!!!
-- Change [ownerNumb](https://github.com/xdevteam404/xdev-self/blob/main/xdev.js#71)
+- Change [ownerNumb](https://github.com/RyuuOfficial/R-Dev-Team/blob/main/RDev.js#71)
 
-- Change [Menu](https://github.com/xdevteam404/xdev-self/blob/main/message/help.js)
+- Change [Menu](https://github.com/RyuuOfficial/R-Dev-Team/blob/main/message/help.js)
 
-- Change [Thumbnail](https://github.com/xdevteam404/xdev-self/blob/main/stik/thumb.jpeg)
+- Change [Thumbnail](https://github.com/RyuuOfficial/R-Dev-Team/blob/main/stik/thumb.jpeg)
 
-- Change [FakeThumbn](https://github.com/xdevteam404/xdev-self/blob/main/stik/fake.jpeg)
+- Change [FakeThumbn](https://github.com/RyuuOfficial/R-Dev-Team/blob/main/stik/fake.jpeg)
 
 # INSTALLL
 * [Node.js](https://nodejs.org/en/)
@@ -261,6 +261,8 @@
 ‎‎• [`Irull`](https://wa.me/6282290559350) `Pemberi Case`
 
 ‎‎• [`Hafz`](https://wa.me/6282126046864) `Pemberi Case`
+
+• [`Ryuu`](https://wa.me/6282293271747) `Reacode`
 
 # Bagi Kalian Yang Memakai Script ini ataupun Mengambil Case Dari Script Ini Tanpa Memberikan Wm Lu Sampah Woy
 
